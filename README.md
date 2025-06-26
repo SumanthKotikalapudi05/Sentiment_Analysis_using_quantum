@@ -8,7 +8,7 @@ And now as we are moving towards a whole new era of using Quantum Advantage and 
 Humans are not just any random beings. we can think and talk which I personally believe that which makes us different from other species.<br>
 And in this fast paced wolrd run and led by us "Humans", where machines started to gain intelligence like us "AI".
 We very well know that "AI" is taking its place everywhere it has its use case everywhere and to use AI much efficently machines must understand what humans are actually saying.<br><br>
-Humans are complex beings. Language that we use is highly dimensioned and in classical perspective yes we can extend an input to some dimensions but not a high number.<br><br>
+Humans are complex beings.Human language exists in a complex, high-dimensional space and in classical perspective yes we can extend an input to some dimensions but not a high number.<br><br>
 
 <box>**Exactly here comes Quantum Advantage**</box>
 Due to the phenomenons like *SUPERPOSITION*,*ENTANGLEMENT*,*INTERFERENCE* we can put or represent our input data in a high dimensioned space (hilbert space)
